@@ -133,6 +133,8 @@ https://www.gov.wales/sites/default/files/statistics-and-research/2019-07/flying
 
 # Cardiff
 
+**Communications (call on 12/3/2025)**:  Cardiff confirms via internal records in 2013 that Pentwyn is in FS and part of the expansion. Pentwyn 3 is named. Riverside has FS coverage but exact areas unconfirmed
+
 **Sources** (checked 23/12/2023):
 overall issue [webarchived](https://web.archive.org/web/20231223094420/https://cardiff.moderngov.co.uk/ieListDocuments.aspx?CId=151&MID=2881#AI6906)
 Saved doc (cardiff doc 1): [webarchived](https://web.archive.org/web/20231223094700/https://cardiff.moderngov.co.uk/documents/s12940/Item%204.pdf)
