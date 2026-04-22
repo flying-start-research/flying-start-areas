@@ -4,7 +4,7 @@
 # input/output ------------------------------------------------------------
 
 fsRhondda <-
-  'raw data/Rhondda FS list 2015.csv' %>%
+  'data/raw/Rhondda FS list 2015.csv' %>%
   read_csv(skip = 1)
 
 

@@ -251,15 +251,15 @@ wimd2011_child_joined %>%
 
 ## save it anyway -- not clean enough
 # 
-# wimd2011_child_joined %>% 
-#   select(`Local Authority`,
-#          `ONS Name`,
-#          `LSOA Name`,
-#          `LSOA Code`,
-#          `Income domain_Child Index 2011`,
-#          fsPhase1,
-#          fsPhase2) %>%
-#   write_csv('data/note cardiff FS.csv')
+wimd2011_child_joined %>% 
+  select(`Local Authority`,
+         `ONS Name`,
+         `LSOA Name`,
+         `LSOA Code`,
+         `Income domain_Child Index 2011`,
+         fsPhase1,
+         fsPhase2) %>%
+  write_csv('data/note cardiff FS.csv')
 # 
 # 
 
