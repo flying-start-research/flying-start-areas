@@ -121,7 +121,7 @@ ggplotly(p)
 ## - [x] 2015/2016 areas are not simply the next most deprived 
 
 wimd2011_child_joined %>%
-  #  filter(!fsPhase1) %>% ## optional delete FS phase 1
+    filter(!fsPhase1) %>% ## optional delete FS phase 1
   ggplot(
     aes(x = `Income domain_Child Index 2011`, y = `Health domain_Child Index 2011`,
         colour = fsPhase2)
